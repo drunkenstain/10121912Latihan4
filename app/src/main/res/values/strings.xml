@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="nama">Vincensius Aditya Barus</string>
+    <string name="judul">Android Developer</string>
+    <string name="phone">+62 0812 2403 2618</string>
+    <string name="sosial">"@AndroDev"</string>
+    <string name="email">vincen@android.com</string>
+</resources>
